@@ -1,0 +1,56 @@
+{
+  "name": "jsk-kairouan",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000",
+  "dependencies": {
+    "@material-ui/core": "^4.3.3",
+    "@material-ui/icons": "^4.2.1",
+    "@mobiscroll/react-lite": "^4.7.3",
+    "@o2xp/react-datatable": "^1.1.11",
+    "ag-grid-community": "^21.2.0",
+    "ag-grid-react": "^21.2.0",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "material-table": "^1.50.0",
+    "mdbreact": "^4.19.1",
+    "mobiscroll-react": "^4.0.0",
+    "react": "^16.9.0",
+    "react-animated-css": "^1.2.1",
+    "react-animated-slider": "^1.1.4",
+    "react-bnb-gallery": "^1.1.6",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-confetti": "^4.0.1",
+    "react-confetti-canvas": "^1.0.1",
+    "react-dom": "^16.9.0",
+    "react-grid-gallery": "^0.5.5",
+    "react-icons": "^3.7.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1",
+    "react-use": "^11.3.2",
+    "redux": "^4.0.4",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
